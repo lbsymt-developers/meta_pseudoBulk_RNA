@@ -8,3 +8,8 @@
 - [TransmiR](http://cmbi.bjmu.edu.cn/transmir)
 - [TRANSFAC](https://genexplain.com/transfac/)
 - [LincSNP](https://bio.tools/lincsnp)
+
+## Packages
+
+- [oligo](https://www.bioconductor.org/packages/release/bioc/html/oligo.html)
+- [metaDE](http://www2.uaem.mx/r-mirror/web/packages/MetaDE/MetaDE.pdf)
