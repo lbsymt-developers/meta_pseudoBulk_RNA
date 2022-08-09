@@ -8,6 +8,7 @@
 - [TransmiR](http://cmbi.bjmu.edu.cn/transmir)
 - [TRANSFAC](https://genexplain.com/transfac/)
 - [LincSNP](https://bio.tools/lincsnp)
+- [SNPnexus](http://snp-nexus.org/index.html)
 
 ## Packages
 
